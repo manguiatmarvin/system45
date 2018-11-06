@@ -1,0 +1,23 @@
+{
+  "name": "mod_fib",
+  "version": "1.0.0",
+  "description": "simple module that returns the sum of 2 numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marvin manguiat",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manguiatmarvin/system45.git"
+  },
+  "keywords": [
+    "fib",
+    "series"
+  ],
+  "bugs": {
+    "url": "https://github.com/manguiatmarvin/system45/issues"
+  },
+  "homepage": "https://github.com/manguiatmarvin/system45#readme"
+}
